@@ -30,5 +30,5 @@ CREATE TABLE `secure_deployment`.`go_get_form` (
   PRIMARY KEY (`username`));
 
 
-jdbc:mysql://localhost:3306/secure_deployment
+
 
